@@ -93,4 +93,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <br />
 
-<h2 align="center"> Great Job! OsTicket is installed and ready for us to configure. </h2>
+<h2 align="center"> Great Job! OsTicket is installed and ready for us to <a href="https://github.com/jaydcollins/post-install-config">configure. </a> </h2>
